@@ -7,7 +7,7 @@
 ## Schematic
 
 #### Example Using NODEMCU 
-<img src="./images/STM32_OTA.png" width="800"> 
+<img src="./Images/STM32_OTA.png" width="800"> 
 
 ### Connections
 |ESP8266 Pin |NodeMCU Pin |STM32 MCU |
@@ -38,13 +38,13 @@
 1)Os arquivos deverao esta no repositorio.
 2)Ao fazer o Upload de um binario novo utilize um nome diferente dos anteriores, para evitar poblemas de atualizaçao.
 
-<img src="./images/repository.jpg" width="800">
+<img src="./Images/repository.jpg" width="800">
 
 ## 2) Ciaçao do arquivo de atualizaçao
 Apos o upload do arquivo binario, e necessario obter o link de acesso direto ao arquivo, para isso faça os seguinte passos:<p>
 1) faça o download do arquivo binario.<p>
 2) Apos o download do arquivo, abra o gerenciador de download e copie o link de download do arquivo. O link começa com: "https://raw.githubusercontent.com/"<p>
-<img src="./images/download_bin.jpg" width="800">   
+<img src="./Images/download_bin.jpg" width="800">   
 Para o correto funcionamento do sistema de atualizaçao é necessario criar um arquivo de configuraçao, esse aquivo é quem vai dizer ao ESP8266 qual arquivo devera ser utilizado, e onde ele estara armazenado.<p>
 
 3)Criar um aruivo no formato.txt. (exemple :LinkUpdt.txt).<p>
@@ -54,7 +54,7 @@ Para o correto funcionamento do sistema de atualizaçao é necessario criar um a
 "Mandatory": false<br>
   }<p>
  O "link:", sera o link direto do arquivo binario.
-<img src="./images/File_updt.jpg" width="800">  
+<img src="./Images/File_updt.jpg" width="800">  
 
 
 ## 3) configuraçao na IDE do Arduino.
@@ -65,7 +65,7 @@ Para o correto funcionamento do sistema de atualizaçao é necessario criar um a
   
 O "link_Updt" , e o link direto do aquivo de cunfiguraçao, e ele pode ser obtido da mesma maneira que o link do arquivo .bin.<br> 
 
-<img src="./images/Arduino_code.jpg" width="800">  
+<img src="./Images/Arduino_code.jpg" width="800">  
     
     
     
