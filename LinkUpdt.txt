@@ -1,4 +1,4 @@
 {
-  "link": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/BIN/blink_1ms.bin",
+  "link": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/BIN/blink_2ms.bin",
   "Mandatory": false
   }
