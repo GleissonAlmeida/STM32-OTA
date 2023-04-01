@@ -1,4 +1,4 @@
 {
-  "link": "https://raw.githubusercontent.com/Spark-br/STM32-OTA/main/Binary_STM32/blink_3ms.bin",
+  "link": "https://raw.githubusercontent.com/Spark-br/STM32-OTA/main/Binary_STM32/blink_4ms.bin",
   "Mandatory": false 
   }
