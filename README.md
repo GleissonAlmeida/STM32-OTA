@@ -67,8 +67,9 @@ O "link_Updt" , e o link direto do aquivo de cunfiguraçao, e ele pode ser obtid
 
 <img src="./Images/Arduino_code.jpg" width="800">  
     
-    
-    
+-----
+### How to Work  
+<img src="./Images/Diagrama.jpg" width="800">      
 
 -----
 ### BTW
