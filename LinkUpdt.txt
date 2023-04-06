@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/Spark-br/STM32-OTA/main/Binary_STM32/blink_2ms.bin",
+  "link": "https://raw.githubusercontent.com/Spark-br/STM32-OTA/main/Binary_STM32/blink_1ms.bin",
   "Mandatory": false,
   "sw" :1.0
   }
