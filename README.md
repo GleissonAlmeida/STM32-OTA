@@ -2,7 +2,7 @@
 # STM32-OTA With ESP8266
 
 ### Sistema para atualizaçao remota do STM32F103C8T utilizando um ESP8266.
-### [Veiw on YOUTUBE](https://youtu.be/3Bh6Y-V-LYg)
+### [Veiw on YOUTUBE](https://www.youtube.com/watch?v=fX0JGTNInXo)
 
 ## Schematic
 
